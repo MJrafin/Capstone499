@@ -4,6 +4,14 @@ Deep learning based system capable of recognizing speedy vehicle’s from motion
 
 ## Screenshots
 
+### Results Samples
+
+![499 sample 3](https://user-images.githubusercontent.com/70026044/224506369-6fe8791e-480c-4cdb-bed3-22eac7d1d17b.jpg)
+![499 sample](https://user-images.githubusercontent.com/70026044/224506557-d8bb140f-2e0b-44ca-9841-6b877425450e.png)
+
+![499 sample 2](https://user-images.githubusercontent.com/70026044/224506377-2a1a179b-9d89-4481-8ac1-28905ffecbc1.jpg)
+
+
 ### Landing Page
 ![2](https://user-images.githubusercontent.com/70026044/224486895-238eaa62-4002-44b8-ba31-93795d3b13bb.png)
 
