@@ -1,7 +1,6 @@
 
 # Capstone499
-Deep learning based system capable of recognizing motion-blurred Bangladeshi license plate numbers from speedy vehicles. 
-
+Deep learning based system capable of recognizing Bangladeshi license plate numbers from motion blurred speedy vehicles.
 ## Screenshots
 
 ### Results Samples
